@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+2PfAGB9K1oSjnnlbbDkdYT7K+p6wJaVCdZIRW8rhOFn/X9nSuXpkK1Br6kBKKslWAcfxhDPmA3dubic8qgdLA==",
+  "dgSpecHash": "3GeYsntwKpkWhwsM7Z0UAKpphJDWb9LKBPN+BBg9kB7EtBzViEu3rm5dO6HjwyjNAnVO9F0qWJcINnBQB2BAiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALL IN ONE\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ALL IN ONE\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

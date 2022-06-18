@@ -2464,11 +2464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
+      "projectUniqueName": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\PhoneBook\\PhoneBook.csproj",
       "projectName": "PhoneBook",
-      "projectPath": "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
+      "projectPath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\PhoneBook\\PhoneBook.csproj",
       "packagesPath": "C:\\Users\\ALL IN ONE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\PhoneBook\\obj\\",
+      "outputPath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\PhoneBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALL IN ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2485,11 +2485,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\BL\\BL.csproj"
+            "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\BL\\BL.csproj"
             },
-            "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\ALL IN ONE\\source\\repos\\p2\\PhoneBook\\DAL\\DAL.csproj"
+            "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBook-Backend\\DAL\\DAL.csproj"
             }
           }
         }
